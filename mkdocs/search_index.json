@@ -2,23 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Rau Th\u1ee7y canh C\u1ea7n Th\u01a1\n\n\nWebsite: \nhttp://rauthuycanhcantho.com\n\n\nC\u00e1c s\u1ea3n ph\u1ea9m ch\u00fang t\u00f4i cung c\u1ea5p: \nhttp://rauthuycanhcantho.com/sanpham/", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#rau-thuy-canh-can-tho", 
+            "text": "", 
+            "title": "Rau Th\u1ee7y canh C\u1ea7n Th\u01a1"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#website-httprauthuycanhcanthocom", 
+            "text": "", 
+            "title": "Website: http://rauthuycanhcantho.com"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#cac-san-pham-chung-toi-cung-cap-httprauthuycanhcanthocomsanpham", 
+            "text": "", 
+            "title": "C\u00e1c s\u1ea3n ph\u1ea9m ch\u00fang t\u00f4i cung c\u1ea5p: http://rauthuycanhcantho.com/sanpham/"
         }
     ]
 }
